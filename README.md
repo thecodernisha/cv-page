@@ -4,6 +4,7 @@ This project was created to practice basic HTML structure, semantic HTML, CSS st
 
 ## Live Project
 GitHub Repository:   https://github.com/thecodernisha/cv-page
+project URL:  https://roadmap.sh/projects/single-page-cv
 
 ## Features
   Clean CV/Resume layout
